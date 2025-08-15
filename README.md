@@ -1,4 +1,4 @@
-# CodeX Music Bot
+# Senti Labs Music Bot
 
 **A feature-rich Discord music bot with advanced filters, playlist management, and multiple platform support.**
 
@@ -150,3 +150,4 @@ Created by Senti Labs
 ## License
 
 This project is licensed under the MIT License.
+
