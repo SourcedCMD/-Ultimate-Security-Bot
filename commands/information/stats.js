@@ -62,7 +62,7 @@ module.exports = {
                         inline: false,
                     },
                 ])
-                .setFooter({ text: "CodeX Devlopment" })
+                .setFooter({ text: "Senti Labs" })
 
             return interaction.reply({
                 embeds: [embed]

@@ -244,7 +244,7 @@ module.exports = {
                 // Show main help menu
                 await canvas.drawHeader(client, `${client.user.username} Help Menu`);
                 canvas.drawCategories(categories, categoryIcons);
-                canvas.drawFooter('Made with ❤️ by CodeX Development');
+                canvas.drawFooter('Made with ❤️ by Senti Labs');
 
                 const attachment = new AttachmentBuilder(canvas.getBuffer(), { name: 'help.png' });
                 await interaction.editReply({
@@ -370,7 +370,7 @@ function setupCollectors(message, interaction, client, categories, categoryIcons
                 currentCategory = null;
                 await canvas.drawHeader(client, `${client.user.username} Help Menu`);
                 canvas.drawCategories(categories, categoryIcons);
-                canvas.drawFooter('Made with ❤️ by CodeX Development');
+                canvas.drawFooter('Made with ❤️ by Senti Labs');
 
                 const attachment = new AttachmentBuilder(canvas.getBuffer(), { name: 'help.png' });
                 await i.editReply({

@@ -151,7 +151,7 @@ if (interaction.isButton() && interaction.customId.startsWith('help-')) {
             });
             
             embed.setFooter({ 
-                text: `Made with ❤️ by CodeX Development`,
+                text: `Made with ❤️ by Senti Labs`,
                 iconURL: client.user.displayAvatarURL({ dynamic: true })
             });
         } else if (action === 'all') {

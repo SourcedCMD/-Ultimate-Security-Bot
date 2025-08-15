@@ -37,8 +37,8 @@ module.exports = ({ interaction, commandObj, client }) => {
 
 /**********************************************************
 * @Author:
-  Leo and CodeX Team
+  SourcedCMD
 
 * @Community:
-  https://discord.gg/codexdev (CodeX Development)
+  https://discord.gg/u6rfKKaBp7 (Senti Labs)
  *********************************************************/

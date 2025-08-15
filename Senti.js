@@ -1,9 +1,9 @@
 /**********************************************************
 * @Author:
-  Leo and CodeX Team
+  SourcedCMD
 
 * @Community:
-  https://discord.gg/codexdev (CodeX Development)
+  https://discord.gg/u6rfKKaBp7 (Senti Labs)
  *********************************************************/
 
 console.log((`
@@ -218,13 +218,13 @@ class CodeXBot {
     }
 }
 
-const CodeX = new CodeXBot();
-CodeX.start()
+const Senti = new CodeXBot();
+Senti.start()
 
 /**********************************************************
 * @Author:
-  Leo and CodeX Team
+  SourcedCMD
 
 * @Community:
-  https://discord.gg/codexdev (CodeX Development)
+  https://discord.gg/u6rfKKaBp7 (Senti Labs)
  *********************************************************/

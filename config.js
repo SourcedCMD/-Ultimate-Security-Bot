@@ -58,7 +58,7 @@ module.exports = {
                 type: "LISTENING",
             },
             {
-                name: "This bot is made by CodeX Devlopment",
+                name: "This bot is made by Senti Labs",
                 type: "CUSTOM",
             },
         ],
@@ -67,8 +67,8 @@ module.exports = {
 
 /**********************************************************
 * @Author:
-  Leo and CodeX Team
+  SourcedCMD
 
 * @Community:
-  https://discord.gg/codexdev (CodeX Development)
+  https://discord.gg/u6rfKKaBp7 (Senti Labs)
  *********************************************************/

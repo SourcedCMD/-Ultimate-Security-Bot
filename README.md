@@ -141,11 +141,11 @@ riffyOptions: {
 
 ## Support
 
-Join our Discord server for support: [discord.gg/sV5nAs4NtH](https://https//discord.gg/sV5nAs4NtH)
+Join our Discord server for support: [Senti Lans](https://discord.gg/u6rfKKaBp7)
 
 ## Credits
 
-Created by CodeX Development Team
+Created by Senti Labs
 
 ## License
 

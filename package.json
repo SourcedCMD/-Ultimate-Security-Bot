@@ -1,14 +1,14 @@
 {
-  "name": "CodeX Music",
+  "name": "Senti Labs Music",
   "description": "Advance Discord music bot using Riffy Lavalink Client and CommandKit.",
   "version": "1.0.2",
-  "main": "CodeX.js",
+  "main": "Senti.js",
   "scripts": {
-    "start": "node --unhandled-rejections=strict CodeX",
+    "start": "node --unhandled-rejections=strict Senti",
     "deploy": "npm run flushCommands && npm start",
     "flushCommands": "node utils/commandFlush.js"
   },
-  "author": "CodeX Devlopment",
+  "author": "Senti Labs",
   "license": "MIT",
   "dependencies": {
     "@napi-rs/canvas": "^0.1.44",
